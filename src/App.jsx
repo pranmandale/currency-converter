@@ -10,8 +10,9 @@ function App() {
     <div className='w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat'
     style={{backgroundImage: 'url(https://images.pexels.com/photos/259165/pexels-photo-259165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)'}}
     >
-
+     
     </div>
+    
   )
 }
 
